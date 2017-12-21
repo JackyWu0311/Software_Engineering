@@ -50,6 +50,9 @@
     </Compile>
     <Compile Include="Blocks.cs" />
     <Compile Include="BlockShape.cs" />
+    <Compile Include="B10332036_view.cs">
+      <SubType>Form</SubType>
+    </Compile>
     <Compile Include="NonSelectableButton.cs">
       <SubType>Component</SubType>
     </Compile>

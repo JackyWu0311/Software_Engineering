@@ -70,9 +70,27 @@ namespace FinalProject
         public void ChangeGameView()
         {
             //may made a tetrisView array, and random choose one to show
+            Random Number = new Random();
+            switch (Number.Next() % 5)
+            {
+                case 0:
+                    Application.Restart();
+                    Application.ExitThread();
+                    Application.Run(new B10332036_view());
+                    break;
+                case 1:
+                    Application.Restart();
+                    Application.ExitThread();
+                    Application.Run(new B10332036_view());
+                    break;
+                //case 2:
+                //case 3:
+                //case 4:
+            }
+
         }
-        // be inform the state is changed, then modify the model to new model
-        public void stateHasChanged(TetrisModel model)
+            // be inform the state is changed, then modify the model to new model
+            public void stateHasChanged(TetrisModel model)
         {
             tm = model;
         }

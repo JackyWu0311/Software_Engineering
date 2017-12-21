@@ -17,3 +17,14 @@ C:\Users\JackyWu\Desktop\Software_Engineering-master\FinalProject\FinalProject\o
 C:\Users\JackyWu\Desktop\Software_Engineering-master\FinalProject\FinalProject\obj\Debug\FinalProject.csproj.CoreCompileInputs.cache
 C:\Users\JackyWu\Desktop\Software_Engineering-master\FinalProject\FinalProject\obj\Debug\FinalProject.exe
 C:\Users\JackyWu\Desktop\Software_Engineering-master\FinalProject\FinalProject\obj\Debug\FinalProject.pdb
+C:\Users\JackyWu\Desktop\Software_Engineering\FinalProject\FinalProject\bin\Debug\FinalProject.exe.config
+C:\Users\JackyWu\Desktop\Software_Engineering\FinalProject\FinalProject\bin\Debug\FinalProject.exe
+C:\Users\JackyWu\Desktop\Software_Engineering\FinalProject\FinalProject\bin\Debug\FinalProject.pdb
+C:\Users\JackyWu\Desktop\Software_Engineering\FinalProject\FinalProject\obj\Debug\FinalProject.csprojResolveAssemblyReference.cache
+C:\Users\JackyWu\Desktop\Software_Engineering\FinalProject\FinalProject\obj\Debug\FinalProject.B10415016_view.resources
+C:\Users\JackyWu\Desktop\Software_Engineering\FinalProject\FinalProject\obj\Debug\FinalProject.Properties.Resources.resources
+C:\Users\JackyWu\Desktop\Software_Engineering\FinalProject\FinalProject\obj\Debug\FinalProject.TetrisView.resources
+C:\Users\JackyWu\Desktop\Software_Engineering\FinalProject\FinalProject\obj\Debug\FinalProject.csproj.GenerateResource.Cache
+C:\Users\JackyWu\Desktop\Software_Engineering\FinalProject\FinalProject\obj\Debug\FinalProject.csproj.CoreCompileInputs.cache
+C:\Users\JackyWu\Desktop\Software_Engineering\FinalProject\FinalProject\obj\Debug\FinalProject.exe
+C:\Users\JackyWu\Desktop\Software_Engineering\FinalProject\FinalProject\obj\Debug\FinalProject.pdb

@@ -207,6 +207,7 @@ namespace FinalProject
         // determine whether the game is over or not
         public bool GameOver()
         {
+            return false;
             // if game is over, then return true, whereas return false
             
         }
